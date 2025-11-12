@@ -1,0 +1,1 @@
+Note: Using existing database configuration. No custom collections required for this portfolio except storing contact inquiries, which are saved in the "inquiry" collection derived from the Inquiry schema we define in backend main.py for validation only.
